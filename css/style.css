@@ -1,0 +1,95 @@
+body{
+    width: 1040px;
+    margin: 0px auto;
+}
+
+header{
+    padding: 15px;
+    padding: left 50px ;
+    margin-bottom: 30px;
+    width: 1040px;
+}
+
+header nav ul{
+    
+    list-style-type: none;
+    display: inline;
+    padding-left: 50px;
+}
+header nav ul li {
+    color:rgba(138, 133, 135, 0.3);
+    display: inline-block;
+    padding:0px 50px;
+    font-size: x-large;
+}
+a {
+    text-decoration: none;
+}
+header nav{
+    position: absolute;
+    display: inline-block;
+    margin-top: 20px;
+}
+/* main div {
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+
+main div img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-right: 26px;
+ }
+
+  /* main article section div{ 
+    height: 270px;
+    width: 450px;
+    /* overflow: scroll; */
+    /* overflow: hidden;  */
+    /* overflow-y: scroll; */
+    /* margin-top: 0px;
+    margin-bottom: 0px; */
+   
+    /* } */ 
+    article{
+        display: inline-block;
+    }
+    main article section div p{
+        height: 270px;
+    width: 440px;
+    /* overflow: scroll; */
+    overflow: hidden; 
+    /* overflow-y: scroll; */
+    margin-top: 0px;
+    margin-bottom: 85px; 
+    margin-left: 10px;
+    }
+    main article section h2 {
+        font-size:   20px;
+        margin-left: 30px;
+        margin-bottom: 10px;
+       position: relative;
+    }
+    main article section{
+        display: inline-block;
+      margin-bottom: 0px;
+        /* background-position-y: top; */
+
+    }
+button {
+        background-color:rgb(138, 133, 133)transparent;
+        margin-left: 20px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border-radius: 15px;
+    }
+
+
+    footer{
+        background-color:rgba(138, 133, 135, 0.3);
+       margin-top: 30px;
+       margin-bottom: 30px;
+       height: 90px;
+       width: 1040px;
+
+    }
